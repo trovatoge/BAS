@@ -1,0 +1,5 @@
+- Installare vlc
+- installare python-2.7.8 (durante l'installazione selezionare la voce Add python.exe to Path)
+- installare PyQt4-4.11.2-gpl-Py2.7-Qt4.8.6-x32
+- installare ninja-ide-2.3
+Seguire la sequenza
